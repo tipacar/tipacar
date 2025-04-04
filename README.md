@@ -1,3 +1,3 @@
 # Merhaba ben Tipacar 👋
 
-Bir Roblox oyun geliştiricisi ve bir yazılımcıyım
+Ben bir Roblox oyun geliştiricisi ve bir yazılımcıyım
